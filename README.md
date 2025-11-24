@@ -1,4 +1,4 @@
-# Desafio Ruby
+# Desafio Ruby DIO
 
 ## Escopo do desafio:
 
